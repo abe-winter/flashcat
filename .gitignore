@@ -3,3 +3,4 @@ creds.json
 *.swp
 .fc-cache/
 __pycache__/
+*.apkg
