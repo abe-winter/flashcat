@@ -2,3 +2,4 @@ creds.json
 .direnv/
 *.swp
 .fc-cache/
+__pycache__/
