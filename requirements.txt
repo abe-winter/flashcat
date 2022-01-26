@@ -1,0 +1,4 @@
+# nope: wikipedia client doesn't support category listing I think
+# wikipedia==1.4.0
+requests==2.27.1
+genanki==0.13.0
