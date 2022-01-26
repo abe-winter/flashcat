@@ -26,3 +26,5 @@ TITLE=anntypes
 - [ ] capture template boxes to do things like date of birth or 'preceded / followed by', country demonym, a million things
 - [ ] capture wikipedia props to anki tags so you can filter in the anki app (supreme court cases by year, for example)
 - [ ] do something useful with images
+- [ ] fix html entities
+- [ ] unbreak mathjax
